@@ -1,0 +1,13 @@
+body{
+    width: 100vw;
+    height: auto;
+}
+#carre{
+    width: 100px;
+    height: 100px;
+    background: rgb(182, 19, 19);
+
+}
+.mystyle{
+    display: none;
+}
